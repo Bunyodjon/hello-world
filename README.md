@@ -1,2 +1,2 @@
 # hello-world
-this is just a test
+With a passion for statistics and programming, I love solving business challenges with the help of data and statistics. Over the course of my professional experience I have worked in diverse environments and successfully completed independent and team-based projects using my three key ingredients: knowledge, teamwork and communication. I really enjoy working on challenging projects and improve my skills in R, Python, SAS and SQL.
